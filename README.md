@@ -33,6 +33,18 @@ O **SynapCat** é um bot desenvolvido para facilitar a gestão de servidores no 
 
 ---
 
+## 🔗 Links
+
+<p align="center">
+  <a href="LINK_DO_BOT">
+    <img src="https://img.shields.io/badge/🤖 Adicionar Bot-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  
+  <a href="LINK_DO_SERVIDOR">
+    <img src="https://img.shields.io/badge/💬 Entrar na Catware-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+</p>
+
 ## 📦 Como rodar o projeto
 
 ```bash
