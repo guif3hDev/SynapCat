@@ -5,10 +5,10 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 ![License](https://img.shields.io/badge/license-MIT-green)
+![Version](https://img.shields.io/badge/version-1.2.0-blue)
 
 ---
 
-![Version](https://img.shields.io/badge/version-1.2.0-blue)
 
 ## 🚀 Sobre o projeto
 
