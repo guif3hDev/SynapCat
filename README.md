@@ -36,7 +36,7 @@ O **SynapCat** é um bot desenvolvido para facilitar a gestão de servidores no 
 ## 🔗 Links
 
 <p align="center">
-  <a href="LINK_DO_BOT">
+  <a href=https://discord.com/oauth2/authorize?client_id=1485396876017537104&permissions=8&integration_type=0&scope=bot>
     <img src="https://img.shields.io/badge/🤖 Adicionar Bot-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
   
