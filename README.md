@@ -1,19 +1,40 @@
 # 🐱 SynapCat
 
-Bot para Discord focado em automação, utilidades e gerenciamento de servidores.
+> Bot para Discord focado em automação, utilidades e gerenciamento de servidores.
 
-## 🚀 Funcionalidades
-- Sistema de boas-vindas com embed
-- Cargo automático
-- Respostas automáticas
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![License](https://img.shields.io/badge/license-MIT-green)
+
+---
+
+## 🚀 Sobre o projeto
+
+O **SynapCat** é um bot desenvolvido para facilitar a gestão de servidores no Discord, oferecendo automações úteis, interações e melhorias na experiência dos usuários.
+
+---
+
+## ⚙️ Funcionalidades
+
+- 👋 Sistema de boas-vindas com embed
+- 🎭 Cargo automático ao entrar
+- 💬 Respostas automáticas
+- ⚡ Estrutura modular para expansão
+
+---
 
 ## 🛠️ Tecnologias
+
 - Python
 - discord.py
 - Git
 
-## 📦 Como rodar
+---
+
+## 📦 Como rodar o projeto
+
 ```bash
-git clone ...
+git clone https://github.com/SEU-USUARIO/synapcat.git
+cd synapcat
 pip install -r requirements.txt
 python main.py
