@@ -45,11 +45,6 @@ O **SynapCat** é um bot desenvolvido para facilitar a gestão de servidores no 
   </a>
 </p>
 
-## 🌐 Acesse o SynapCat
-
-- 🤖 [Adicionar o bot ao seu servidor](https://discord.com/oauth2/authorize?client_id=1485396876017537104&permissions=8&integration_type=0&scope=bot>)
-- 💬 [Entrar na comunidade Catware](https://discord.gg/5vNUUepPNR>)
-
 ---
 
 ## 📦 Como rodar o projeto
