@@ -8,6 +8,8 @@
 
 ---
 
+![Version](https://img.shields.io/badge/version-1.2.0-blue)
+
 ## 🚀 Sobre o projeto
 
 O **SynapCat** é um bot desenvolvido para facilitar a gestão de servidores no Discord, oferecendo automações úteis, interações e melhorias na experiência dos usuários.
