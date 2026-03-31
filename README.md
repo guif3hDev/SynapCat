@@ -14,6 +14,12 @@ O **SynapCat** é um bot desenvolvido para facilitar a gestão de servidores no 
 
 ---
 
+## 📷 Preview
+
+Sistema de boas-vindas com embed personalizado:
+
+![Preview](https://chatgpt.com/backend-api/estuary/content?id=file_00000000a5b071f58020e504cac356e9&ts=493043&p=fs&cid=1&sig=34d583062d1f91227f251fd62d67c6deabe987e96148ffd61708aa574deb96a0&v=0)
+
 ## ⚙️ Funcionalidades
 
 - 👋 Sistema de boas-vindas com embed
