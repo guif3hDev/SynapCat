@@ -45,6 +45,8 @@ O **SynapCat** é um bot desenvolvido para facilitar a gestão de servidores no 
   </a>
 </p>
 
+---
+
 ## 📦 Como rodar o projeto
 
 ```bash
